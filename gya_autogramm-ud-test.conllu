@@ -355,7 +355,7 @@
 10	gbàzù	gbàzù	NOUN	N	_	11	nsubj	_	AlignBegin=53418|AlignEnd=53822|GE=[barrage]|MSeg=gbàzù|nWord=11|RX=[N]|Word=gbàzù
 11	BHabaH	BHa-ba-H	VERB	V	_	0	root	_	AlignBegin=53957|AlignEnd=54092|GE=[prendre]|MSeg=ba|nWord=12|RX=[V]|Word=bàà|wordform=BHa-ba-H
 12	bêm	bêm	NOUN	N	_	11	obj	_	AlignBegin=54226|AlignEnd=54630|GE=[enfant]|MSeg=bêm|nWord=13|RX=[N]|Word=bêm
-13	yáknɛ́	yáknɛ́	PART	MV	_	11	aux	_	AlignBegin=54630|AlignEnd=55035|GE=[en_partant]|MSeg=yáknɛ́|nWord=14|RX=[MV]|Word=yáknɛ́
+13	yáknɛ́	yáknɛ́	PART	MV	_	11	advmod	_	AlignBegin=54630|AlignEnd=55035|GE=[en_partant]|MSeg=yáknɛ́|nWord=14|RX=[MV]|Word=yáknɛ́
 14	Hkii	H-kii	VERB	V	_	11	conj	_	AlignBegin=55116|AlignEnd=55197|GE=[chercher]|MSeg=kii|nWord=1|RX=[V]|Word=kíí|wordform=H-kii
 15	mɔ̀	mɔ̀	NOUN	N	_	14	obj	_	AlignBegin=55197|AlignEnd=55359|GE=[chose]|MSeg=mɔ̀|nWord=2|RX=[N]|Word=mɔ̀
 16	nɛ̀	nɛ̀	ADP	FCT	_	14	obl:arg	_	AlignBegin=55359|AlignEnd=55521|GE=[par]|MSeg=nɛ̀|nWord=3|RX=[FCT]|Word=nɛ̀
