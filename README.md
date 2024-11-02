@@ -4,14 +4,14 @@ A Universal Dependencies corpus for Northwest Gbaya, a member of the Gbaya branc
 
 # Introduction
 
-The treebank is an automatic conversion of the [mSUD_Northwest_Gbaya-Autogramm]([https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm](https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm)), which was extracted from Paulette Roulon's corpus in Elan format ([https://corpafroas.huma-num.fr/Archives/corpus.php](https://corporan.huma-num.fr/Archives/corpus.php?codeLangue=GYA)).
+The treebank is an automatic conversion of the [mSUD_Northwest_Gbaya-Autogramm](https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm), which was extracted from Paulette Roulon's corpus in Elan format ([https://corpafroas.huma-num.fr/Archives/corpus.php](https://corporan.huma-num.fr/Archives/corpus.php?codeLangue=GYA)).
 
 Sentences are annotated with the following metadata:
 
  - `sent_id` (which indicates the source file and the segmentation identifier in the source file)
  - `speaker_id` (which identifies the turn of speech)
  - `sound_url` (which enables playback of the audio recording) (to be added)
- - `seṅt_timecode` (which enables playback of the sentence)
+ - `sent_timecode` (which enables playback of the sentence)
  - `text` (lexical tokenization)
  - `text_fr` (French interpretation)
   
@@ -31,7 +31,7 @@ The UD Northwest Gbaya treebank counts 2417 words for 403 sentences.
 
 # Acknowledgments
 
-This treebank was produced as part of the [Autogramm ANR project](https://autogramm.github.io/en/). With special thanks to Christian Chanard for the conversion from Elan, Sylvain Kahane for the mSUD annotation, and Bruno Guillaume for the conversion from mSUD to UD. 
+This treebank was produced as part of the [Autogramm ANR project](https://autogramm.github.io/en/). With special thanks to Christian Chanard for the conversion from Elan, Sylvain Kahane for the mSUD annotation, Aleksandra Miletic and Bruno Guillaume for the conversion from mSUD to UD. 
 
 
 ## References
@@ -41,7 +41,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 
 # Changelog
 
-* 2024-05-15 v2.14
+* 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
 
@@ -50,14 +50,14 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
+Genre: spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
 Contributors: Roulon, Paulette
-Contributing: here
+Contributing: elsewhere
 Contact: pauletteroulon@gmail.com
 ===============================================================================
 </pre>
