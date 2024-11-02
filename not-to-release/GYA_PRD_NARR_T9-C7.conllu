@@ -4,8 +4,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 790, 2100
-# phonetic_text = ɲínám nɛ́ ʔìvɔ̂n //
-# text_fr = Je m'appelle Yvonne //
+# text_fr = Je m'appelle Yvonne
 1	ɲínám	ɲînʔám	NOUN	N	_	3	nsubj	_	AlignBegin=790|AlignEnd=1227|GE=nom_propre|Gloss=nom_propre|MGloss=nom_propre-MT-1SG|MSeg=ɲîn-H=ám|nWord=1|RX=[N]|wordform=ɲîn-H=ám
 2	nɛ́	_	AUX	PRÉD	_	3	cop	_	AlignBegin=1227|AlignEnd=1664|GE=[ETRE-ESS]|Gloss=ETRE-ESS|MGloss=ETRE-ESS|MSeg=nɛ́|nWord=2|RX=[PRÉD]
 3	ʔìvɔ̂n	ʔìvɔ̂n	PROPN	NPR	_	0	root	_	AlignBegin=1664|AlignEnd=2100|GE=[Yvonne]|Gloss=Yvonne|MGloss=Yvonne|MSeg=ʔìvɔ̂n|nWord=3|RX=[NPR]
@@ -15,8 +14,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 2100, 8590
-# phonetic_text = ʔó mà bókóbêm ʔín bóíbêm ʔá̰-ndɔ̀wá nɛ̀ɛ́ hɛ̀n... nɛ̀ɛ̀ gúɗù ʔín bókáɲáà //
-# text_fr = Une fille et un garçon, ils sont partis en campement, elle est sa soeur.(lit. avec soeur) //
+# text_fr = Une fille et un garçon, ils sont partis en campement, elle est sa soeur.(lit. avec soeur)
 1	ʔó	ʔó	DET	MN	_	3	det	_	AlignBegin=2100|AlignEnd=2641|GE=[PL]|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=1|RX=[MN]
 2	mà	mà	DET	MN	_	3	det	_	AlignBegin=2641|AlignEnd=3182|GE=[INDF]|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=2|RX=[MN]
 3	bókóbêm	bókóbêm	NOUN	N	_	7	dislocated	_	AlignBegin=3182|AlignEnd=3723|GE=fille|Gloss=fille|MGloss=fille|MSeg=bókóbêm|nWord=3|RX=[N]
@@ -35,8 +33,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 8590, 11830
-# phonetic_text = ʔá̰-nɛ̀ bé bóɲáà dɛ̀ɛ́ tùà //
-# text_fr = Voilà que le frère a construit une maison. //
+# text_fr = Voilà que le frère a construit une maison.
 1	ʔá̰-nɛ̀	_	CCONJ	SUB	_	4	cc	_	AlignBegin=8590|AlignEnd=9238|GE=voilà_que|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=[SUB]
 2	bé	bé	NOUN	N	_	3	nmod	_	AlignBegin=9238|AlignEnd=9886|GE=petit|Gloss=petit|MGloss=petit|MSeg=bé|nWord=2|RX=[N]
 3	bóɲáà	bóɲá-Hʔà̰	NOUN	N	_	4	nsubj	_	AlignBegin=9886|AlignEnd=10534|GE=frère|Gloss=frère|MGloss=frère[MT]-3SG|MSeg=bóɲá-H=à̰|nWord=3|RX=[N]|wordform=bóɲá-H=à̰
@@ -48,8 +45,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 11830, 15190
-# phonetic_text = ʔèè ʔá̰-nàá nɛ̀ɛ̀ nɛ́ yàrí yàrì ngárì //
-# text_fr = Puis voilà qu'il est parti en excursion, en excursion au fusil. //
+# text_fr = Puis voilà qu'il est parti en excursion, en excursion au fusil.
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=11830|AlignEnd=12310|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=12310|AlignEnd=12790|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=2|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 3	nɛ̀ɛ̀	nɛ	VERB	V	_	0	root	_	AlignBegin=12790|AlignEnd=13270|GE=aller|Gloss=aller|MGloss=ACC-aller-MT|MSeg=BHa-nɛ-H|nWord=3|RX=[V]|wordform=BHa-nɛ-H
@@ -63,8 +59,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 15190, 19577
-# phonetic_text = ʔèè ʔá̰-ndɔ̀wá dɛ̀ɛ́ tùà //
-# text_fr = Et voilà qu'ils ont déjà construit une maison //
+# text_fr = Et voilà qu'ils ont déjà construit une maison
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=15190|AlignEnd=15589|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ʔá̰-ndɔ̀wá	ʔá̰-nɛ̀wà-H	PRON	PERS	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=15589|AlignEnd=15988|GE=[3PL]|Gloss=3PL|MGloss=vovoilà_que3PL-MT|MSeg=ʔá̰-nɛ̀=wà-H|nWord=2|RX=[PERS]|wordform=ʔá̰-nɛ̀=wà-H
 3	dɛ̀ɛ́	BHa-dɛ-H	VERB	V	_	0	root	_	AlignBegin=15988|AlignEnd=16387|GE=faire|Gloss=faire|MGloss=ACC-faire-MT|MSeg=BHa-dɛ-H|nWord=3|RX=[V]|wordform=BHa-dɛ-H
@@ -75,8 +70,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 15190, 19577
-# phonetic_text = ʔèè ʔá̰-nàá kàyá mɔ̀ táá kútùà mɛ̀ //
-# text_fr = Et voilà qu'elle a rassemblé [toutes leurs] choses dans cette maison là. //
+# text_fr = Et voilà qu'elle a rassemblé [toutes leurs] choses dans cette maison là.
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=16786|AlignEnd=17185|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=5|RX=[COORD]
 2	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=17185|AlignEnd=17584|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=6|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 3	kàyá	BHa-kai-H	VERB	V	_	0	root	_	AlignBegin=17584|AlignEnd=17983|GE=rassembler|Gloss=rassembler|MGloss=ACC-rassembler-MT|MSeg=BHa-kai-H|nWord=7|RX=[V]|wordform=BHa-kai-H
@@ -90,8 +84,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 19577, 21638
-# phonetic_text = ʔèè bókáɲáà dúk kéí kútùà mɛ̀ //
-# text_fr = Puis sa soeur reste quant à elle dans cette maison là. //
+# text_fr = Puis sa soeur reste quant à elle dans cette maison là.
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=19577|AlignEnd=19921|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[COORD]
 2	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	3	nsubj	_	AlignBegin=19921|AlignEnd=20265|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=2|RX=[N]|wordform=bókáɲá-H=à
 3	dúk	H-duk	VERB	V	_	0	root	_	AlignBegin=20265|AlignEnd=20609|GE=rester|Gloss=rester|MGloss=INAC-rester|MSeg=H-duk|nWord=3|RX=[V]|wordform=H-duk
@@ -104,8 +97,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 21638, 23360
-# phonetic_text = ʔèé ʔà̰ yák kɔ̰́à̰ yàrí //
-# text_fr = Puis il part quant à lui en excursion //
+# text_fr = Puis il part quant à lui en excursion
 1	ʔèé	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=21638|AlignEnd=21982|GE=puis|Gloss=puis|MGloss=puis-MT|MSeg=ʔèè-H|nWord=1|RX=[COORD]|wordform=ʔèè-H
 2	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=21982|AlignEnd=22326|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=2|RX=[PR]
 3	yák	yak	VERB	V	_	0	root	_	AlignBegin=22326|AlignEnd=22670|GE=partir|Gloss=partir|MGloss=INAC-partir|MSeg=H-yak|nWord=3|RX=[V]|wordform=H-yak
@@ -117,8 +109,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 23360, 26820
-# phonetic_text = ʔá̰-nàá yàrá yàrí nɛ́nɛ́ɛ́ɛ́ //
-# text_fr = Voilà qu'il part en excursion longtemps, //
+# text_fr = Voilà qu'il part en excursion longtemps,
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=23360|AlignEnd=23675|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yàrá	BHa-yar-H	VERB	V	_	0	root	_	AlignBegin=23675|AlignEnd=23990|GE=se_promener|Gloss=se_promener|MGloss=ACC-se_promener-MT|MSeg=BHa-yar-H|nWord=2|RX=[V]|wordform=BHa-yar-H
 3	yàrí	yar-BHi	VERB	V	_	2	advcl	_	AlignBegin=23990|AlignEnd=24305|GE=se_promener|Gloss=se_promener|MGloss=se_promener-ASS|MSeg=yar-BHi|nWord=3|RX=[V]|wordform=yar-BHi
@@ -129,8 +120,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 23360, 26820
-# phonetic_text = ʔèè ʔà̰ nɛ́ //
-# text_fr = et il va //
+# text_fr = et il va
 1	ʔèè	ʔèè-H	CCONJ	COORD	_	3	cc	_	AlignBegin=24620|AlignEnd=24935|GE=puis|Gloss=puis|MGloss=puis-MT|MSeg=ʔèè-H|nWord=5|RX=[COORD]|wordform=ʔèè-H
 2	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=24935|AlignEnd=25250|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=6|RX=[PR]
 3	nɛ́	H-nɛ	VERB	V	_	0	root	_	AlignBegin=25250|AlignEnd=25565|GE=aller|Gloss=aller|MGloss=INAC-aller|MSeg=H-nɛ|nWord=7|RX=[V]|wordform=H-nɛ
@@ -140,7 +130,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 23360, 26820
-# phonetic_text = ʔà̰ kpá ʔó yérè //
 # text_fr = Il trouve des buffles.//
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=25565|AlignEnd=25880|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=8|RX=[PR]
 2	kpá	H-kpa	VERB	V	_	0	root	_	AlignBegin=25880|AlignEnd=26195|GE=trouver|Gloss=trouver|MGloss=INAC-trouver|MSeg=H-kpa|nWord=9|RX=[V]|wordform=H-kpa
@@ -152,7 +141,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 26820, 29400
-# phonetic_text = ʔá̰-nàá yòò yérè pḭ́ nù //
 # text_fr = Voilà qu'il a frappé violemment et jeté un buffle à terre.//
 1	ʔá̰-nàá	ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=26820|AlignEnd=27336|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yòò	BHa-yo-H	VERB	V	_	0	root	_	AlignBegin=27336|AlignEnd=27852|GE=frapper_violemment|Gloss=frapper_violemment|MGloss=ACC-frapper_violemment-MT|MSeg=BHa-yo-H|nWord=2|RX=[V]|wordform=BHa-yo-H
@@ -165,7 +153,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 29400, 33320
-# phonetic_text = ʔèè ʔá̰-nɛ̀ yérè má, má hé tɛ́-tòà gá, má hé tɛ́-tòà gá ʔèá //
 # text_fr = Et voilà que le buffle le charge, le charge comme pour le transpercer, charge comme pour le transpercer.//
 1	ʔèè	ʔèè	CCONJ	FCT	_	4	cc	_	AlignBegin=29400|AlignEnd=29702|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	4	cc	_	AlignBegin=29702|AlignEnd=30004|GE=voilà_que|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=2|RX=[COORD]
@@ -186,7 +173,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 33320, 34840
-# phonetic_text = ʔá̰-nàá yèé gbàwár ʔé //
 # text_fr = Voilà qu'il s'est déjà mis en route.//
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=33320|AlignEnd=33700|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yèé	BHa-ye-H	VERB	V	_	0	root	_	AlignBegin=33700|AlignEnd=34080|GE=entrer|Gloss=entrer|MGloss=ACC-entrer-D|MSeg=BHa-ye-H|nWord=2|RX=[V]|wordform=BHa-ye-H
@@ -198,8 +184,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 34840, 39160
-# phonetic_text = ʔèè bókáɲáà ʔɔ́ kéí nɛ́ yá ɗòŋ-nà, kpé kéí ndútùà zù ʔè, ʔɔ́ kéí yá //
-# text_fr = Puis sa soeur, quant à elle, dort après son départ, ayant déjà fermé la porte sur elle, elle dort. //
+# text_fr = Puis sa soeur, quant à elle, dort après son départ, ayant déjà fermé la porte sur elle, elle dort.
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=34840|AlignEnd=35128|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	3	nsubj	_	AlignBegin=35128|AlignEnd=35416|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=2|RX=[N]|wordform=bókáɲá-H=à
 3	ʔɔ́	H-ʔɔ	VERB	V	_	0	root	_	AlignBegin=35416|AlignEnd=35704|GE=s'étendre|Gloss=s'étendre|MGloss=INAC-s'étendre|MSeg=H-ʔɔ|nWord=3|RX=[V]|wordform=H-ʔɔ
@@ -221,8 +206,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 39160, 43999
-# phonetic_text = ʔèè ʔá̰-nàà sár yù péínɛ́ ʔèááá //
-# text_fr = Puis voilà qu'il revient ainsi en courant,: //
+# text_fr = Puis voilà qu'il revient ainsi en courant,:
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=39160|AlignEnd=39698|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ʔá̰-nàà	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=39698|AlignEnd=40236|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=2|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 3	sár	H-sar	VERB	V	_	0	root	_	AlignBegin=40236|AlignEnd=40774|GE=détaler|Gloss=détaler|MGloss=INAC-détaler|MSeg=H-sar|nWord=3|RX=[V]|wordform=H-sar
@@ -235,8 +219,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 39160, 43999
-# phonetic_text = ʔá̰-nàà béí gìmà //
-# text_fr = voilà qu'il chante la chanson: //
+# text_fr = voilà qu'il chante la chanson:
 1	ʔá̰-nàà	ʔá̰-nɛ̀ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=42388|AlignEnd=42926|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=7|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 2	béí	H-bei	VERB	V	_	0	root	_	AlignBegin=42926|AlignEnd=43464|GE=chanter|Gloss=chanter|MGloss=INAC-chanter|MSeg=H-bei|nWord=8|RX=[V]|wordform=H-bei
 3	gìmà	gìmà	NOUN	N	_	2	obj	_	AlignBegin=43464|AlignEnd=43999|GE=chant|Gloss=chant|MGloss=chant|MSeg=gìmà|nWord=9|RX=[N]
@@ -246,8 +229,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè //
-# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte //
+# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=43999|AlignEnd=44366|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=1|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=44366|AlignEnd=44733|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=2|RX=[NPR]
 3	hṵ́ı̰́	H-hṵḭ	VERB	V	_	0	root	_	AlignBegin=44733|AlignEnd=45100|GE=ouvrir|Gloss=ouvrir|MGloss=IMP.INAC-ouvrir|MSeg=H-hṵḭ|nWord=3|RX=[V]|wordform=H-hṵḭ
@@ -260,8 +242,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké //
-# text_fr = la manche de la sagaie est restée dans le vieux buffle, Doke //
+# text_fr = la manche de la sagaie est restée dans le vieux buffle, Doke
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=46201|AlignEnd=46568|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=7|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=46568|AlignEnd=46935|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=8|RX=[N]
 3	ɓɔ̀nà	BHa-ɓɔn-H	VERB	V	_	0	root	_	AlignBegin=46935|AlignEnd=47302|GE=être_encore|Gloss=être_encore|MGloss=ACC-être_encore-D|MSeg=BHa-ɓɔn-H|nWord=9|RX=[V]|wordform=BHa-ɓɔn-H
@@ -275,8 +256,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè //
-# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte //
+# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=48770|AlignEnd=49137|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=14|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=49137|AlignEnd=49504|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=15|RX=[NPR]
 3	hṵ́ı̰́	H-hṵḭ	VERB	V	_	0	root	_	AlignBegin=49504|AlignEnd=49871|GE=ouvrir|Gloss=ouvrir|MGloss=IMP.INAC-ouvrir|MSeg=H-hṵḭ|nWord=16|RX=[V]|wordform=H-hṵḭ
@@ -289,7 +269,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké //
 # text_fr = le manche de la sagaie est restée dans le vieux buffle, Doke://
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=50972|AlignEnd=51339|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=20|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=51339|AlignEnd=51706|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=21|RX=[N]
@@ -304,8 +283,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè//
-# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte //
+# text_fr = ma soeur, Yaa-doe-mom, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=53541|AlignEnd=53908|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=27|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=53908|AlignEnd=54275|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=28|RX=[NPR]
 3	hṵ́ı̰́	H-hṵḭ	VERB	V	_	0	root	_	AlignBegin=54275|AlignEnd=54642|GE=ouvrir|Gloss=ouvrir|MGloss=IMP.INAC-ouvrir|MSeg=H-hṵḭ|nWord=29|RX=[V]|wordform=H-hṵḭ
@@ -318,8 +296,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké //
-# text_fr = le manche de la sagaie est restée dans le vieux buffle, Doke //
+# text_fr = le manche de la sagaie est restée dans le vieux buffle, Doke
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=55743|AlignEnd=56110|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=33|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=56110|AlignEnd=56477|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=34|RX=[N]
 3	ɓɔ̀nà	BHa-ɓɔn-H	VERB	V	_	0	root	_	AlignBegin=56477|AlignEnd=56844|GE=être_encore|Gloss=être_encore|MGloss=ACC-être_encore-D|MSeg=BHa-ɓɔn-H|nWord=35|RX=[V]|wordform=BHa-ɓɔn-H
@@ -333,8 +310,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè //
-# text_fr = // ma soeur, Yaa-doe-mom, ouvre moi vite la porte //
+# text_fr = // ma soeur, Yaa-doe-mom, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=58312|AlignEnd=58679|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=40|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=58679|AlignEnd=59046|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=41|RX=[NPR]
 3	hṵ́ı̰́	H-hṵḭ	VERB	V	_	0	root	_	AlignBegin=59046|AlignEnd=59413|GE=ouvrir|Gloss=ouvrir|MGloss=IMP.INAC-ouvrir|MSeg=H-hṵḭ|nWord=42|RX=[V]|wordform=H-hṵḭ
@@ -347,8 +323,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké //
-# text_fr = le manche de la sagaie est restée dans le vieux buffle, Doke //
+# text_fr = le manche de la sagaie est restée dans le vieux buffle, Doke
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=60514|AlignEnd=60881|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=46|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=60881|AlignEnd=61248|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=47|RX=[N]
 3	ɓɔ̀nà	BHa-ɓɔn-H	VERB	V	_	0	root	_	AlignBegin=61248|AlignEnd=61615|GE=être_encore|Gloss=être_encore|MGloss=ACC-être_encore-D|MSeg=BHa-ɓɔn-H|nWord=48|RX=[V]|wordform=BHa-ɓɔn-H
@@ -362,8 +337,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = ʔèè ká bókáɲáà zèá ʔèè hṵ́ı̰́ ndútùà //
-# text_fr = Puis quand sa soeur l'a entendu, elle ouvre la porte //
+# text_fr = Puis quand sa soeur l'a entendu, elle ouvre la porte
 1	ʔèè	ʔèè	CCONJ	SUB	_	4	cc	_	AlignBegin=63061|AlignEnd=63529|GE=accompagner|Gloss=accompagner|MGloss=accompagner|MSeg=ʔèè|nWord=53|RX=[SUB]
 2	ká	ká	CCONJ	SUB	_	4	cc	_	AlignBegin=63529|AlignEnd=63997|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=54|RX=[SUB]
 3	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	4	nsubj	_	AlignBegin=63997|AlignEnd=64465|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=55|RX=[N]|wordform=bókáɲá-H=à
@@ -377,8 +351,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 43999, 68211
-# phonetic_text = ʔèè ʔá̰-nàá yèá ʔèá //
-# text_fr = et voilà qu'il entre simplement. //
+# text_fr = et voilà qu'il entre simplement.
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=66337|AlignEnd=66805|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=60|RX=[SUB]
 2	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=66805|AlignEnd=67273|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=61|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 3	yèá	BHa-ye	VERB	V	_	0	root	_	AlignBegin=67273|AlignEnd=67741|GE=entrer|Gloss=entrer|MGloss=ACC-entrer|MSeg=BHa-ye|nWord=62|RX=[V]|wordform=BHa-ye
@@ -389,8 +362,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 68211, 72430
-# phonetic_text = ʔèè ká yérè péí kùr_kùr_kùr kpá fàrà kà̰à̰ yé kútùà ná, kpá fàrà kà̰à̰ yé kútùà ná ʔòé //
-# text_fr = Et le bufffle tourne en rond tourne en rond, ne trouve pas de moyen pour entrer dans la maison, ne trouve aucun moyen pour entrer dans la maison //
+# text_fr = Et le bufffle tourne en rond tourne en rond, ne trouve pas de moyen pour entrer dans la maison, ne trouve aucun moyen pour entrer dans la maison
 1	ʔèè	ʔèè	CCONJ	SUB	_	4	cc	_	AlignBegin=68211|AlignEnd=68445|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ká	ká	CCONJ	SUB	_	4	cc	_	AlignBegin=68445|AlignEnd=68679|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=2|RX=[SUB]
 3	yérè	yérè	NOUN	N	_	4	nsubj	_	AlignBegin=68679|AlignEnd=68913|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=3|RX=[N]
@@ -415,8 +387,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 72430, 74890
-# phonetic_text = ʔá̰-nàá tèká nù sɔ̀ngbɛ̀ɛ̀ //
-# text_fr = Voilà qu'il s'écroule à terre raide mort. //
+# text_fr = Voilà qu'il s'écroule à terre raide mort.
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=72430|AlignEnd=73045|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	tèká	BHa-tek-H	VERB	V	_	0	root	_	AlignBegin=73045|AlignEnd=73660|GE=tomber|Gloss=tomber|MGloss=ACC-tomber-D|MSeg=BHa-tek-H|nWord=2|RX=[V]|wordform=BHa-tek-H
 3	nù	nù	NOUN	N	_	2	obl:arg	_	AlignBegin=73660|AlignEnd=74275|GE=terre|Gloss=terre|MGloss=terre|MSeg=nù|nWord=3|RX=[N]
@@ -427,8 +398,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 74900, 76910
-# phonetic_text = ʔèè bóíbêmí gbó //
-# text_fr = Et le garçon sort //
+# text_fr = Et le garçon sort
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=74900|AlignEnd=75570|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	bóíbêmí	bóíbêm-ìí	NOUN	N	_	3	nsubj	_	AlignBegin=75570|AlignEnd=76240|GE=garçon|Gloss=garçon|MGloss=garçon-ANAPH|MSeg=bóíbêm-ìí|nWord=2|RX=[N]|wordform=bóíbêm-ìí
 3	gbó	H-gbo	VERB	V	_	0	root	_	AlignBegin=76240|AlignEnd=76910|GE=sortir|Gloss=sortir|MGloss=INAC-sortir|MSeg=H-gbo|nWord=3|RX=[V]|wordform=H-gbo
@@ -438,8 +408,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 81120, 83220
-# phonetic_text = ʔèè ká ʔá̰-nàà ʔɔ́ nù hɛ̰̀ ʔèè bá sàɗì, bá yérè //
-# text_fr = Et alors le voici qui est étendu à terre ici et il prend l'animal, prend le buffle //
+# text_fr = Et alors le voici qui est étendu à terre ici et il prend l'animal, prend le buffle
 1	ʔèè	ʔèè	CCONJ	SUB	_	4	cc	_	AlignBegin=76910|AlignEnd=77228|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ká	ká	CCONJ	SUB	_	4	cc	_	AlignBegin=77228|AlignEnd=77546|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=2|RX=[SUB]
 3	ʔá̰-nàà	ʔá̰-nɛ̀ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=77546|AlignEnd=77864|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=3|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
@@ -457,8 +426,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 81120, 83220
-# phonetic_text = ʔèè bókáɲáà gbó ʔòé dɛ́ ngàyáà dɛ́ ngàyáà ʔèá //
-# text_fr = Et sa soeur sort elle aussi, fait la fête, fait la fête. [= pousse des cris de joie] //
+# text_fr = Et sa soeur sort elle aussi, fait la fête, fait la fête. [= pousse des cris de joie]
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=80735|AlignEnd=81120|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=6|RX=[COORD]
 2	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	3	nsubj	_	AlignBegin=81120|AlignEnd=81382|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=1|RX=[N]|wordform=bókáɲá-H=à
 3	gbó	H-gbo	VERB	V	_	0	root	_	AlignBegin=81382|AlignEnd=81644|GE=sortir|Gloss=sortir|MGloss=INAC-sortir|MSeg=H-gbo|nWord=2|RX=[V]|wordform=H-gbo
@@ -474,8 +442,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 83220, 84470
-# phonetic_text = gɔ́má yérè ʔá̰-hı̰̀ı̰́ ʔèá //
-# text_fr = Couper le buffle c'est ainsi simplement. //
+# text_fr = Couper le buffle c'est ainsi simplement.
 1	gɔ́má	Há-gɔm	VERB	V	VerbForm=Vnoun	3	csubj	_	AlignBegin=83220|AlignEnd=83470|GE=couper|Gloss=couper|MGloss=NV-couper|MSeg=Há-gɔm|nWord=1|RX=[V]|wordform=Há-gɔm
 2	yérè	yérè	NOUN	N	_	1	obj	_	AlignBegin=83470|AlignEnd=83720|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=2|RX=[N]
 3	ʔá̰-hı̰̀ı̰́	_	AUX	PRÉD	_	0	root	_	AlignBegin=83720|AlignEnd=83970|GE=[ETRE-CONS]|Gloss=ETRE-CONS|MGloss=ETRE-CONS|MSeg=ʔá̰-hı̰̀ı̰́|nWord=3|RX=[PRÉD]
@@ -486,8 +453,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 84470, 86600
-# phonetic_text = wà ɲɔ́ɔ́ɔ́ŋ //
-# text_fr = Ils mangent longtemps //
+# text_fr = Ils mangent longtemps
 1	wà	wà	PRON	PR	PronType=Prs	2	nsubj	_	AlignBegin=84470|AlignEnd=84774|GE=[3P]|Gloss=3P|MGloss=3P|MSeg=wà|nWord=1|RX=[PR]
 2	ɲɔ́ɔ́ɔ́ŋ	H-ɲɔŋ-vv	VERB	V	_	0	root	_	AlignBegin=84774|AlignEnd=85078|GE=manger|Gloss=manger|MGloss=INAC-manger-DUR|MSeg=H-ɲɔŋ-vv|nWord=2|RX=[V]|wordform=H-ɲɔŋ-vv
 
@@ -496,8 +462,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 84470, 86600
-# phonetic_text = ʔèé wà ʔá yík wèè //
-# text_fr = et ils mettent les morceaux au-dessus du feu //
+# text_fr = et ils mettent les morceaux au-dessus du feu
 1	ʔèé	ʔèè-H	CCONJ	SUB	_	3	cc	_	AlignBegin=85078|AlignEnd=85382|GE=puis|Gloss=puis|MGloss=puis-D|MSeg=ʔèè-H|nWord=3|RX=[SUB]|wordform=ʔèè-H
 2	wà	wà	PRON	PR	PronType=Prs	3	nsubj	_	AlignBegin=85382|AlignEnd=85686|GE=[3P]|Gloss=3P|MGloss=3P|MSeg=wà|nWord=4|RX=[PR]
 3	ʔá	H-ʔa	VERB	V	_	0	root	_	AlignBegin=85686|AlignEnd=85990|GE=poser|Gloss=poser|MGloss=INAC-poser|MSeg=H-ʔa|nWord=5|RX=[V]|wordform=H-ʔa
@@ -509,8 +474,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 86610, 88380
-# phonetic_text = wà dɛ́ kóréà ʔá yík wèè ʔèá //
-# text_fr = Il le font boucaner, l'ayant simplement mis au-dessus du feu //
+# text_fr = Il le font boucaner, l'ayant simplement mis au-dessus du feu
 1	wà	wà	PRON	PR	PronType=Prs	2	nsubj	_	AlignBegin=86610|AlignEnd=86863|GE=[3P]|Gloss=3P|MGloss=3P|MSeg=wà|nWord=1|RX=[PR]
 2	dɛ́	H-dɛ	VERB	V	_	0	root	_	AlignBegin=86863|AlignEnd=87116|GE=faire|Gloss=faire|MGloss=INAC-faire|MSeg=H-dɛ|nWord=2|RX=[V]|wordform=H-dɛ
 3	kóréà	kóré-à	NOUN	N	_	2	obj	_	AlignBegin=87116|AlignEnd=87369|GE=aliment_séché|Gloss=aliment_séché|MGloss=aliment_séché-NMLS|MSeg=kóré-à|nWord=3|RX=[N]|wordform=kóré-à
@@ -524,8 +488,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 88380, 90100
-# phonetic_text = ʔèè ʔá̰ mbɔ̀ɔ́sà dɛ́ //
-# text_fr = Et voilà que le lendemain //
+# text_fr = Et voilà que le lendemain
 1	ʔèè	ʔèè	CCONJ	SUB	_	4	cc	_	AlignBegin=88380|AlignEnd=88626|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	ʔá̰	ʔá̰	CCONJ	SUB	_	4	cc	_	AlignBegin=88626|AlignEnd=88872|GE=voilà_que|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰|nWord=2|RX=[SUB]
 3	mbɔ̀ɔ́sà	mbɔ̀ɔ́sà	NOUN	N	_	4	nsubj	_	AlignBegin=88872|AlignEnd=89118|GE=demain|Gloss=demain|MGloss=demain|MSeg=mbɔ̀ɔ́sà|nWord=3|RX=[N]
@@ -536,8 +499,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 88380, 90100
-# phonetic_text = ká̰à̰ sìí ɗòŋ //
-# text_fr = Il y retourne //
+# text_fr = Il y retourne
 1	ká̰à̰	káʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=89364|AlignEnd=89610|GE=[3SG]|Gloss=-3SG|MGloss=alors-3SG|MSeg=ká=à̰|nWord=5|RX=[PERS]|wordform=ká=à̰
 2	sìí	BHa-si-H	VERB	V	_	0	root	_	AlignBegin=89610|AlignEnd=89856|GE=s'en_aller|Gloss=s'en_aller|MGloss=ACC-s'en_aller-D|MSeg=BHa-si-H|nWord=6|RX=[V]|wordform=BHa-si-H
 3	ɗòŋ	ɗòŋ	ADV	ADV	_	2	advmod	_	AlignBegin=89856|AlignEnd=90100|GE=en_arrière|Gloss=en_arrière|MGloss=en_arrière|MSeg=ɗòŋ|nWord=7|RX=[ADV]
@@ -547,8 +509,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 90100, 92720
-# phonetic_text = ká nɔ́ yérè nɛ̀ gbɛ̀ɛ̀ bókáɲáà ɲɛ́m ɓɔ̀ ná //
-# text_fr = Alors la façon dont la graisse de buffle a abruti sa soeur n'est pas croyable //
+# text_fr = Alors la façon dont la graisse de buffle a abruti sa soeur n'est pas croyable
 1	ká	ká	CCONJ	SUB	_	7	cc	_	AlignBegin=90100|AlignEnd=90391|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=1|RX=[SUB]
 2	nɔ́	nɔ́-H	NOUN	N	_	7	nsubj	_	AlignBegin=90391|AlignEnd=90682|GE=graisse|Gloss=graisse|MGloss=graisse[MT]|MSeg=nɔ́-H|nWord=2|RX=[N]|wordform=nɔ́-H
 3	yérè	yérè	NOUN	N	_	2	obj	_	AlignBegin=90682|AlignEnd=90973|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=3|RX=[N]
@@ -564,8 +525,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 92720, 96660
-# phonetic_text = ʔèè ʔá̰-nàá yàká //
-# text_fr = Et voilà qu'il est parti //
+# text_fr = Et voilà qu'il est parti
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=92720|AlignEnd=93114|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[COORD]
 2	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=93114|AlignEnd=93508|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-MT|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=2|RX=[PERS]|wordform=ʔá̰-nɛ̀=à̰-H
 3	yàká	BHa-yak	VERB	V	_	0	root	_	AlignBegin=93508|AlignEnd=93902|GE=partir|Gloss=partir|MGloss=ACC-partir|MSeg=BHa-yak|nWord=3|RX=[V]|wordform=BHa-yak
@@ -575,8 +535,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 92720, 96660
-# phonetic_text = ʔá̰-nàá yàká //
-# text_fr = voilà qu'il est parti //
+# text_fr = voilà qu'il est parti
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=93902|AlignEnd=94296|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=4|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yàká	BHa-yak	VERB	V	_	0	root	_	AlignBegin=94296|AlignEnd=94690|GE=partir|Gloss=partir|MGloss=ACC-partir|MSeg=BHa-yak|nWord=5|RX=[V]|wordform=BHa-yak
 
@@ -585,8 +544,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 92720, 96660
-# phonetic_text = ʔà̰ kíí mbé yérè yáknɛ́ //
-# text_fr = il part à la recherche un nouveau buffle //
+# text_fr = il part à la recherche un nouveau buffle
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=94690|AlignEnd=95084|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=6|RX=[PR]
 2	kíí	H-kii	VERB	V	_	0	root	_	AlignBegin=95084|AlignEnd=95478|GE=chercher|Gloss=chercher|MGloss=INAC-chercher|MSeg=H-kii|nWord=7|RX=[V]|wordform=H-kii
 3	mbé	mbé	ADJ	A	_	4	amod	_	AlignBegin=95478|AlignEnd=95872|GE=nouveau|Gloss=nouveau|MGloss=nouveau|MSeg=mbé|nWord=8|RX=[A]
@@ -598,8 +556,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 98150, 99110
-# phonetic_text = ʔèè bókáɲáà kpé ndútùà zù ʔè ʔèè ʔɔ́ yá sí-ɗòŋ //
-# text_fr = Et sa soeur ferme dès lors la porte sur elle et s'endort à nouveau //
+# text_fr = Et sa soeur ferme dès lors la porte sur elle et s'endort à nouveau
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=96660|AlignEnd=96908|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[SUB]
 2	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	3	nsubj	_	AlignBegin=96908|AlignEnd=97156|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=2|RX=[N]|wordform=bókáɲá-H=à
 3	kpé	H-kpe	VERB	V	_	0	root	_	AlignBegin=97156|AlignEnd=97404|GE=fermer|Gloss=fermer|MGloss=INAC-fermer|MSeg=H-kpe|nWord=3|RX=[V]|wordform=H-kpe
@@ -616,8 +573,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 99110, 103345
-# phonetic_text = ʔá̰-nàà yár yàrí yáknɛ́ɛ́ɛ́, ʔá̰-nɛ̀ yòò yérè náár ʔá nù ʔòé //
-# text_fr = Voilà qu'il part très loin en excursion et voilà qu'il frappe violemment et jette à terre quatre buffles //
+# text_fr = Voilà qu'il part très loin en excursion et voilà qu'il frappe violemment et jette à terre quatre buffles
 1	ʔá̰-nàà	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=99110|AlignEnd=99495|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yár	yar	VERB	V	_	0	root	_	AlignBegin=99495|AlignEnd=99880|GE=se_promener|Gloss=se_promener|MGloss=INAC-se_promener|MSeg=H-yar|nWord=2|RX=[V]|wordform=H-yar
 3	yàrí	yar-BHi	VERB	V	_	2	advcl	_	AlignBegin=99880|AlignEnd=100265|GE=se_promener|Gloss=se_promener|MGloss=se_promener-ENONCIATIF|MSeg=yar-BHi|nWord=3|RX=[V]|wordform=yar-BHi
@@ -635,8 +591,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 103345, 107670
-# phonetic_text = ʔèé [mà kpɔ́kɔ́ɗí] ʔèè mà yíítòó fé kéí //
-# text_fr = [et un seul] Deux d'entre eux, quant à eux, meurent //
+# text_fr = [et un seul] Deux d'entre eux, quant à eux, meurent
 1	ʔèé	ʔèè	CCONJ	COORD	_	4	reparandum	_	AlignBegin=103345|AlignEnd=103737|GE=puis|Gloss=puis|MGloss=puis-MT|MSeg=ʔèè-H|nWord=1|RX=[COORD]|wordform=ʔèè-H
 2	[mà	mà	PRON	PRO	_	5	reparandum	_	AlignBegin=103737|AlignEnd=104129|GE=[PRO-INDF]|Gloss=PRO-INDF|MGloss=PRO-INDF|MSeg=mà|nWord=2|RX=[PRO]|wordform=mà
 3	kpɔ́kɔ́ɗí]	kpɔ́kɔ́ɗí	ADV	NUM	_	2	advmod	_	AlignBegin=104129|AlignEnd=104520|GE=un_seul|Gloss=un_seul|MGloss=un_seul|MSeg=kpɔ́kɔ́ɗí|nWord=3|RX=[NUM]|wordform=kpɔ́kɔ́ɗí
@@ -651,8 +606,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 103345, 107670
-# phonetic_text = ʔèé mà kpɔ́kɔ́ɗí kúr kéí mɛ́-ndàkà péínɛ́ //
-# text_fr = // et un seul se redresse pour le pourchasser sur le chemin du retour //
+# text_fr = // et un seul se redresse pour le pourchasser sur le chemin du retour
 1	ʔèé	ʔèè-H	CCONJ	SUB	_	4	cc	_	AlignBegin=105840|AlignEnd=106102|GE=puis|Gloss=puis|MGloss=puis-D|MSeg=ʔèè-H|nWord=9|RX=[SUB]|wordform=ʔèè-H
 2	mà	mà	PRON	PRO	_	4	nsubj	_	AlignBegin=106102|AlignEnd=106364|GE=[PRO-INDF]|Gloss=PRO-INDF|MGloss=PRO-INDF|MSeg=mà|nWord=10|RX=[PRO]
 3	kpɔ́kɔ́ɗí	kpɔ́kɔ́ɗí	ADV	NUM	_	2	advmod	_	AlignBegin=106364|AlignEnd=106626|GE=un_seul|Gloss=un_seul|MGloss=un_seul|MSeg=kpɔ́kɔ́ɗí|nWord=11|RX=[NUM]
@@ -666,7 +620,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 107670, 109920
-# phonetic_text = ʔá̰-nàá ndàkáà péínɛ́ ʔèá //
 # text_fr = Voilà qu'il le le pourchasse sur le chemin du retour//
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=107670|AlignEnd=107920|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	ndàkáà	BHa-ndak-Hʔà̰	VERB	V	_	0	root	_	AlignBegin=107920|AlignEnd=108170|GE=poursuivre|Gloss=poursuivre|MGloss=ACC-poursuivre[MT]-3SG|MSeg=BHa-ndak-H=à|nWord=2|RX=[V]|wordform=BHa-ndak-H=à
@@ -678,8 +631,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 107670, 109920
-# phonetic_text = ká̰à̰ gbó ɗǒŋ tùà nà //
-# text_fr = Et il arrive alors derrière la maison là //
+# text_fr = Et il arrive alors derrière la maison là
 1	ká̰à̰	káʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=108670|AlignEnd=108920|GE=[3SG]|Gloss=-3SG|MGloss=alors-3SG|MSeg=ká=à̰|nWord=5|RX=[PR]|wordform=ká=à̰
 2	gbó	H-gbo	VERB	V	_	0	root	_	AlignBegin=108920|AlignEnd=109170|GE=sortir|Gloss=sortir|MGloss=INAC-sortir|MSeg=H-gbo|nWord=6|RX=[V]|wordform=H-gbo
 3	ɗǒŋ	ɗòŋ-H	ADP	FCT	_	4	case	_	AlignBegin=109170|AlignEnd=109420|GE=derrière|Gloss=derrière|MGloss=derrière-D|MSeg=ɗòŋ-H|nWord=7|RX=[FCT]|wordform=ɗòŋ-H
@@ -691,7 +643,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè
 # text_fr = Ma soeur, yaa-doe-mon, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=109920|AlignEnd=110253|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=1|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=110253|AlignEnd=110586|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=2|RX=[NPR]
@@ -705,7 +656,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám dòké
 # text_fr = le manche de la sagaie est restée dans le vieux buffle
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=111918|AlignEnd=112251|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=7|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=112251|AlignEnd=112584|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=8|RX=[N]
@@ -720,7 +670,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè
 # text_fr = Ma soeur, yaa-doe-mon, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=114249|AlignEnd=114582|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=14|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	appos	_	AlignBegin=114582|AlignEnd=114915|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=15|RX=[NPR]
@@ -734,7 +683,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké
 # text_fr = le manche de la sagaie est restée dans le vieux buffle
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=116247|AlignEnd=116580|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=20|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=116580|AlignEnd=116913|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=21|RX=[N]
@@ -749,7 +697,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = bókáɲám yàá-dòè-mɔ̀ hṵ́ı̰́ ndútùà hám bèè,
 # text_fr = Ma soeur, yaa-doe-mon, ouvre moi vite la porte
 1	bókáɲám	bókáɲá-Hʔám	NOUN	N	_	3	vocative	_	AlignBegin=118578|AlignEnd=118911|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-1SG|MSeg=bókáɲá-H=m|nWord=27|RX=[N]|wordform=bókáɲá-H=m
 2	yàá-dòè-mɔ̀	yàá-dòè-mɔ̀	PROPN	NPR	_	1	dep	_	AlignBegin=118911|AlignEnd=119244|GE=yàá-dòè-mɔ̀|Gloss=yàá-dòè-mɔ̀|MGloss=yàá-dòè-mɔ̀|MSeg=yàá-dòè-mɔ̀|nWord=28|RX=[NPR]
@@ -763,7 +710,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = tè sɛ́ɛ̀ ɓɔ̀nà zú bàrà nám, dòké
 # text_fr = le manche de la sagaie est resté dans le vieux buffle
 1	tè	tè-H	NOUN	N	_	3	nsubj	_	AlignBegin=120576|AlignEnd=120909|GE=bois|Gloss=bois|MGloss=bois[MT]|MSeg=tè-H|nWord=33|RX=[N]|wordform=tè-H
 2	sɛ́ɛ̀	sɛ́ɛ̀	NOUN	N	_	1	obj	_	AlignBegin=120909|AlignEnd=121242|GE=sagaie|Gloss=sagaie|MGloss=sagaie|MSeg=sɛ́ɛ̀|nWord=34|RX=[N]
@@ -778,8 +724,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 109920, 124330
-# phonetic_text = bókáɲáà zéí ná ʔòé //
-# text_fr = Sa soeur n'entend rien. //
+# text_fr = Sa soeur n'entend rien.
 1	bókáɲáà	bókáɲá-Hʔà	NOUN	N	_	2	nsubj	_	AlignBegin=122900|AlignEnd=123258|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=40|RX=[N]|wordform=bókáɲá-H=à
 2	zéí	H-zei	VERB	V	_	0	root	_	AlignBegin=123258|AlignEnd=123616|GE=entendre|Gloss=entendre|MGloss=INAC-entendre|MSeg=H-zei|nWord=41|RX=[V]|wordform=H-zei
 3	ná	ná	PART	MV	_	2	advmod	_	AlignBegin=123616|AlignEnd=123974|GE=[NEG]|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=42|RX=[MV]
@@ -790,8 +735,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 124330, 127450
-# phonetic_text = námìí pèá kàá ʔèá_ʔèá_ʔèá //
-# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps. //
+# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps.
 1	námìí	nám-ìí	NOUN	N	_	2	nsubj	_	AlignBegin=124330|AlignEnd=125110|GE=buffle|Gloss=buffle|MGloss=buffle-ANAPH|MSeg=nám-ìí|nWord=1|RX=[N]|wordform=nám-ìí
 2	pèá	BHa-pei-H	VERB	V	_	0	root	_	AlignBegin=125110|AlignEnd=125890|GE=revenir|Gloss=revenir|MGloss=ACC-revenir-D|MSeg=BHa-pei-H|nWord=2|RX=[V]|wordform=BHa-pei-H
 3	kàá	kàá	PART	MV	_	2	advmod	_	AlignBegin=125890|AlignEnd=126670|GE=[REP-ADD]|Gloss=REP-ADD|MGloss=REP-ADD|MSeg=kàá|nWord=3|RX=[MV]
@@ -802,8 +746,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 127450, 129580
-# phonetic_text = námìí pèá kàá ʔèá_ʔèá_ʔèá //
-# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps //
+# text_fr = Le buffle revient encore [= le poursuit toujours] longtemps
 1	námìí	nám-ìí	NOUN	N	_	2	nsubj	_	AlignBegin=127450|AlignEnd=127982|GE=buffle|Gloss=buffle|MGloss=buffle-ANAPH|MSeg=nám-ìí|nWord=1|RX=[N]|wordform=nám-ìí
 2	pèá	BHa-pei-H	VERB	V	_	0	root	_	AlignBegin=127982|AlignEnd=128514|GE=revenir|Gloss=revenir|MGloss=ACC-revenir-D|MSeg=BHa-pei-H|nWord=2|RX=[V]|wordform=BHa-pei-H
 3	kàá	kàá	PART	MV	_	2	advmod	_	AlignBegin=128514|AlignEnd=129046|GE=[REP-ADD]|Gloss=REP-ADD|MGloss=REP-ADD|MSeg=kàá|nWord=3|RX=[MV]
@@ -814,8 +757,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 129580, 131120
-# phonetic_text = ʔà̰ zéí ná ʔòé //
-# text_fr = Elle n'entend rien non plus //
+# text_fr = Elle n'entend rien non plus
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=129580|AlignEnd=129965|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=1|RX=[PR]
 2	zéí	H-zei	VERB	V	_	0	root	_	AlignBegin=129965|AlignEnd=130350|GE=entendre|Gloss=entendre|MGloss=INAC-entendre|MSeg=H-zei|nWord=2|RX=[V]|wordform=H-zei
 3	ná	ná	PART	MV	_	2	advmod	_	AlignBegin=130350|AlignEnd=130735|GE=[NEG]|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=3|RX=[MV]
@@ -826,8 +768,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 131120, 133410
-# phonetic_text = ʔà̰ zéí ná ʔòé //
-# text_fr = Elle n'entend rien non plus //
+# text_fr = Elle n'entend rien non plus
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=131120|AlignEnd=131692|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=1|RX=[PR]
 2	zéí	H-zei	VERB	V	_	0	root	_	AlignBegin=131692|AlignEnd=132264|GE=entendre|Gloss=entendre|MGloss=INAC-entendre|MSeg=H-zei|nWord=2|RX=[V]|wordform=H-zei
 3	ná	ná	PART	MV	_	2	advmod	_	AlignBegin=132264|AlignEnd=132836|GE=[NEG]|Gloss=NEG|MGloss=NEG|MSeg=ná|nWord=3|RX=[MV]
@@ -838,8 +779,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
-# phonetic_text = ká yérè ʔèá_ʔèá_ʔèá ká zṵ̀ṵ̀ ʔɔ́máà //
-# text_fr = alors le buffle s'acharne et lui défonce le poitrail //
+# text_fr = alors le buffle s'acharne et lui défonce le poitrail
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=[alors]|Gloss=alors|MGloss=alors|MSeg=ká|nWord=1|RX=[SUB]
 2	yérè	yérè	NOUN	MV	_	3	nsubj	_	AlignBegin=135765|AlignEnd=135907|GE=[buffle]|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=2|RX=[N]
 3	ʔèá_ʔèá_ʔèá	ʔèá-ʔèá-vv	VERB	V	_	0	root	_	AlignBegin=135907|AlignEnd=136190|GE=[longtemps]|Gloss=longtemps|MGloss=longtempsDUR|MSeg=ʔèá-ʔèá-vv|nWord=3|RX=[ADV]|wordform=ʔèá-ʔèá-vv
@@ -852,7 +792,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
-# phonetic_text = ká yérè gɔ̀máà ʔèá
 # text_fr = alors le buffle l'a frappé, simplement
 1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=136615|AlignEnd=137040|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=4|RX=[SUB]
 2	yérè	yérè	NOUN	N	_	3	nsubj	_	AlignBegin=137040|AlignEnd=137465|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=5|RX=[N]
@@ -864,7 +803,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 135340, 140860
-# phonetic_text = ká sɔ̀ngbɛ̀ɛ̀ ká bóɲáà fèá ʔè
 # text_fr = alors raide mort, son frère est dès lors mort
 1	ká	ká	CCONJ	COORD	_	5	cc	_	AlignBegin=138315|AlignEnd=138740|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=8|RX=[COORD]
 2	sɔ̀ngbɛ̀ɛ̀	sɔ̀ngbɛ̀ɛ̀	ADJ	AA	_	5	advcl	_	AlignBegin=138740|AlignEnd=139165|GE=raide_mort|Gloss=raide_mort|MGloss=raide_mort|MSeg=sɔ̀ngbɛ̀ɛ̀|nWord=9|RX=[AA]
@@ -878,8 +816,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 140860, 145820
-# phonetic_text = ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔà̰á̰ tɛ̀ɛ́-kùr wó ʔèè ká ʔá̰-nàá fèè kɔ̰́à̰ ʔè //
-# text_fr = Quand elle s'est levée, quand elle s'est levée, et alors voilà que son frère était, quant à lui, déjà mort //
+# text_fr = Quand elle s'est levée, quand elle s'est levée, et alors voilà que son frère était, quant à lui, déjà mort
 1	ʔà̰á̰	ʔà̰-Hv	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=140860|AlignEnd=141273|GE=[3SG]|Gloss=3SG|MGloss=3SG-cond|MSeg=ʔà̰-Hv|nWord=1|RX=[PR]|wordform=ʔà̰-Hv
 2	tɛ̀ɛ́-kùr	tɛ̀ɛ́-Bkur	VERB	V	_	10	advcl	_	AlignBegin=141273|AlignEnd=141686|GE=se_lever|Gloss=se_lever|MGloss=COND.ACC-se_lever|MSeg=tɛ̀ɛ́-Bkur|nWord=2|RX=[V]|wordform=tɛ̀ɛ́-Bkur
 3	wó	wó	INTJ	MOD	_	2	discourse	_	AlignBegin=141686|AlignEnd=142099|GE=vraiment|Gloss=vraiment|MGloss=vraiment|MSeg=wó|nWord=3|RX=[MOD]
@@ -898,8 +835,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 145820, 152381
-# phonetic_text = ʔá̰-nàá gbòó kàà kútùà mɛ̀ //
-# text_fr = Voilà qu'elle sort aussi de la maison //
+# text_fr = Voilà qu'elle sort aussi de la maison
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=145820|AlignEnd=146206|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	gbòó	BHa-gbo-H	VERB	V	_	0	root	_	AlignBegin=146206|AlignEnd=146592|GE=sortir|Gloss=sortir|MGloss=ACC-sortir-D|MSeg=BHa-gbo-H|nWord=2|RX=[V]|wordform=BHa-gbo-H
 3	kàà	kàá-H	PART	MV	_	2	advmod	_	AlignBegin=146592|AlignEnd=146978|GE=[REP-ADD]|Gloss=REP-ADD|MGloss=REP-ADD-D|MSeg=kàá-H|nWord=3|RX=[MV]|wordform=kàá-H
@@ -911,7 +847,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 145820, 152381
-# phonetic_text = ʔà̰ gɔ́n kàá zàlàgbàk //
 # text_fr = elle se jette de désespoir par terre,//
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=147750|AlignEnd=148136|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=6|RX=[PR]
 2	gɔ́n	H-gɔn	VERB	V	_	0	root	_	AlignBegin=148136|AlignEnd=148522|GE=s'écrouler|Gloss=s'écrouler|MGloss=INAC-s'écrouler|MSeg=H-gɔn|nWord=7|RX=[V]|wordform=H-gɔn
@@ -923,8 +858,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 145820, 152381
-# phonetic_text = bókáɲáà gɔ́n //
-# text_fr = sa soeur se jette à terre //
+# text_fr = sa soeur se jette à terre
 1	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	2	nsubj	_	AlignBegin=149294|AlignEnd=149680|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=10|RX=[N]|wordform=bókáɲá-H=à
 2	gɔ́n	H-gɔn	VERB	V	_	0	root	_	AlignBegin=149680|AlignEnd=150066|GE=s'écrouler|Gloss=s'écrouler|MGloss=INAC-s'écrouler|MSeg=H-gɔn|nWord=11|RX=[V]|wordform=H-gɔn
 
@@ -933,8 +867,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 145820, 152381
-# phonetic_text = bókáɲáà gɔ́n héí kɔ̰̀á̰ ʔèá_ʔèá_ʔèá ʔèá //
-# text_fr = sa soeur se jette à terre et elle ne fait que pleurer longtemps //
+# text_fr = sa soeur se jette à terre et elle ne fait que pleurer longtemps
 1	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	2	nsubj	_	AlignBegin=150066|AlignEnd=150452|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à̰|nWord=12|RX=[N]|wordform=bókáɲá-H=à̰
 2	gɔ́n	H-gɔn	VERB	V	_	0	root	_	AlignBegin=150452|AlignEnd=150838|GE=s'écrouler|Gloss=s'écrouler|MGloss=INAC-s'écrouler|MSeg=H-gɔn|nWord=13|RX=[V]|wordform=H-gɔn
 3	héí	H-hei	VERB	V	_	2	conj	_	AlignBegin=150838|AlignEnd=151224|GE=pleurer|Gloss=pleurer|MGloss=INAC-pleurer|MSeg=H-hei|nWord=14|RX=[V]|wordform=H-hei
@@ -947,8 +880,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 152386, 155270
-# phonetic_text = ʔá̰-nàá kɔ̀ká kàà túí ʔé [ʔé] sàɗì há̰ yá kɔ̀ gúɗù mɛ̀ //
-# text_fr = Voilà qu'elle a déjà noué son pagne et laisse l'animal pour qu'il reste là dans l'abri. //
+# text_fr = Voilà qu'elle a déjà noué son pagne et laisse l'animal pour qu'il reste là dans l'abri.
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=152386|AlignEnd=152626|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=1|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	kɔ̀ká	kɔk-H	VERB	V	_	0	root	_	AlignBegin=152626|AlignEnd=152866|GE=ligoter|Gloss=ligoter|MGloss=ACC-ligoter-D|MSeg=BHa-kɔk-H|nWord=2|RX=[V]|wordform=BHa-kɔk-H
 3	kàà	kàá-H	PART	MV	_	2	advmod	_	AlignBegin=152866|AlignEnd=153106|GE=[REP-ADD]|Gloss=REP-ADD|MGloss=REP-ADD-D|MSeg=kàá-H|nWord=3|RX=[MV]|wordform=kàá-H
@@ -967,8 +899,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 155270, 159535
-# phonetic_text = ʔà̰ kɔ́k kàà túí //
-# text_fr = Elle noue donc son pagne. //
+# text_fr = Elle noue donc son pagne.
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=155270|AlignEnd=155575|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=1|RX=[PR]
 2	kɔ́k	kɔk	VERB	V	_	0	root	_	AlignBegin=155575|AlignEnd=155880|GE=ligoter|Gloss=ligoter|MGloss=INAC-ligoter|MSeg=H-kɔk|nWord=2|RX=[V]|wordform=H-kɔk
 3	kàà	kàá-H	PART	MV	_	2	advmod	_	AlignBegin=155880|AlignEnd=156185|GE=[REP-ADD]|Gloss=REP-ADD|MGloss=REP-ADD-D|MSeg=kàá-H|nWord=3|RX=[MV]|wordform=kàá-H
@@ -979,8 +910,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 155270, 159535
-# phonetic_text = ʔà̰ héí nɛ̀ kɔ̰̀á̰ péínɛ́ péínɛ́ gbó táá sààyé nà //
-# text_fr = Elle revient ainsi en pleurant et arrive au village ici. //
+# text_fr = Elle revient ainsi en pleurant et arrive au village ici.
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=156490|AlignEnd=156795|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=5|RX=[PR]
 2	héí	H-hei	VERB	V	_	0	root	_	AlignBegin=156795|AlignEnd=157100|GE=pleurer|Gloss=pleurer|MGloss=INAC-pleurer|MSeg=H-hei|nWord=6|RX=[V]|wordform=H-hei
 3	nɛ̀	nɛ̀	PART	MV	_	2	advmod	_	AlignBegin=157100|AlignEnd=157405|GE=[INSTR]|Gloss=INSTR|MGloss=INSTR|MSeg=nɛ̀|nWord=7|RX=[MV]
@@ -997,8 +927,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 159535, 161778
-# phonetic_text = ʔèè ká̰à̰ gɔ̀mà bóɲáà ʔé yè //
-# text_fr = Puis il a déjà finalement frappé son frère //
+# text_fr = Puis il a déjà finalement frappé son frère
 1	ʔèè	ʔèè	CCONJ	COORD	_	3	cc	_	AlignBegin=159535|AlignEnd=159909|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[COORD]
 2	ká̰à̰	káʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=159909|AlignEnd=160283|GE=[3SG]|Gloss=-3SG|MGloss=alors-3SG|MSeg=ká=à̰|nWord=2|RX=[PERS]|wordform=ká=à̰
 3	gɔ̀mà	BHa-gɔm-H	VERB	V	_	0	root	_	AlignBegin=160283|AlignEnd=160657|GE=frapper|Gloss=frapper|MGloss=ACC-frapper-MT|MSeg=BHa-gɔm-H|nWord=3|RX=[V]|wordform=BHa-gɔm-H
@@ -1011,8 +940,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 161778, 167380
-# phonetic_text = ʔèè bókáɲáà ʔà̰ hɔ́ kpɔ́k tí ʔèè yák yák sí nɛ̀ sààyé héí nɛ̀ kɔ̰̀á̰ ʔèááá ʔèè sá kàà, nɛ́ sá béí hɛ̌n sààyé mɛ̀ //
-# text_fr = Et sa soeur elle arrive seule devant Et elle part, part pour le village, elle pleure longtemps Et elle appelle, va appeler des gens dans le village là-bas. //
+# text_fr = Et sa soeur elle arrive seule devant Et elle part, part pour le village, elle pleure longtemps Et elle appelle, va appeler des gens dans le village là-bas.
 1	ʔèè	ʔèè	CCONJ	COORD	_	4	cc	_	AlignBegin=161778|AlignEnd=162044|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[COORD]
 2	bókáɲáà	bókáɲá-Hʔà̰	NOUN	N	_	4	dislocated	_	AlignBegin=162044|AlignEnd=162310|GE=soeur|Gloss=soeur|MGloss=soeur[MT]-3SG|MSeg=bókáɲá-H=à|nWord=2|RX=[N]|wordform=bókáɲá-H=à
 3	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=162310|AlignEnd=162576|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=3|RX=[PERS]
@@ -1044,8 +972,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# phonetic_text = ʔèì tɛ́ gɔ́ nɛ̀ bóɲáà sínɛ́ //
-# text_fr = qu'on aille ramener son frère //
+# text_fr = qu'on aille ramener son frère
 1	ʔèì	ʔéí-B	PRON	PRO	_	2	nsubj	_	AlignBegin=167380|AlignEnd=167655|GE=[IMPS]|Gloss=IMPS|MGloss=IMPS-INJ|MSeg=ʔéí-B|nWord=1|RX=[PRO]|wordform=ʔéí-B
 2	tɛ́	H-tɛ	VERB	V	_	0	root	_	AlignBegin=167655|AlignEnd=167930|GE=venir|Gloss=venir|MGloss=INJ.INAC-venir|MSeg=H-tɛ|nWord=2|RX=[V]|wordform=H-tɛ
 3	gɔ́	H-gɔ	VERB	V	_	2	compound:svc	_	AlignBegin=167930|AlignEnd=168205|GE=porter_à_plusieurs|Gloss=porter_à_plusieurs|MGloss=INF.ACC-porter_à_plusieurs|MSeg=H-gɔ|nWord=3|RX=[V]|wordform=H-gɔ
@@ -1058,7 +985,6 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
 # text = mɔ́ ndàyá mɔ̀ ndèì nɛ́ nɔ̀ ʔé
-# phonetic_text = mɔ́ ndàyá mɔ̀ ndèì nɛ́ nɔ̀ ʔé
 # text_fr = La raison de ceci est que quand on va se promener,
 1	mɔ́	mɔ́	ADP	FCT	_	2	case	_	AlignBegin=169030|AlignEnd=169273|GE=[APPOS]|Gloss=APPOS|MGloss=APPOS|MSeg=mɔ́|nWord=1|RX=[FCT]
 2	ndàyá	ndàyà-H	NOUN	N	_	0	root	_	AlignBegin=169273|AlignEnd=169516|GE=raison|Gloss=raison|MGloss=raison-D|MSeg=ndàyà-H|nWord=2|RX=[N]|wordform=ndàyà-H
@@ -1073,8 +999,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# phonetic_text = ʔèè kéí ngbɔ̀ɔ̀ béí kpɔ́kɔ́ɗí //
-# text_fr = et qu'on n'est accompagné d'une seule personne //
+# text_fr = et qu'on n'est accompagné d'une seule personne
 1	ʔèè	ʔèè	CCONJ	SUB	_	3	cc	_	AlignBegin=170731|AlignEnd=170974|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=8|RX=[SUB]
 2	kéí	káʔéí	PRON	PR	PronType=Prs	3	nsubj	_	AlignBegin=170974|AlignEnd=171217|GE=[P.IMP]|Gloss=-P.IMP|MGloss=alors-P.IMP|MSeg=ká=éí|nWord=9|RX=[PR]|wordform=ká=éí
 3	ngbɔ̀ɔ̀	BHa-ngbɔ-H	VERB	V	_	0	root	_	AlignBegin=171217|AlignEnd=171460|GE=accompagner|Gloss=accompagner|MGloss=ACC-accompagner-D|MSeg=BHa-ngbɔ-H|nWord=10|RX=[V]|wordform=BHa-ngbɔ-H
@@ -1086,8 +1011,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# phonetic_text = ʔèì nɛ́ nɛ́nɛ́ ʔèá //
-# text_fr = et qu'on est parti seulement //
+# text_fr = et qu'on est parti seulement
 1	ʔèì	ʔéí-B	PRON	PERS	Number=Sing|PronType=Prs	2	nsubj	_	AlignBegin=171946|AlignEnd=172189|GE=[IMPS]|Gloss=IMPS|MGloss=IMPS-et_donc|MSeg=ʔéí-B|nWord=13|RX=[PR]|wordform=ʔéí-B
 2	nɛ́	H-nɛ	VERB	V	_	0	root	_	AlignBegin=172189|AlignEnd=172432|GE=aller|Gloss=aller|MGloss=INAC-aller|MSeg=H-nɛ|nWord=14|RX=[V]|wordform=H-nɛ
 3	nɛ́nɛ́	nɛ́nɛ́	PART	MV	_	2	advmod	_	AlignBegin=172432|AlignEnd=172675|GE=en_allant|Gloss=en_allant|MGloss=en_allant|MSeg=nɛ́nɛ́|nWord=15|RX=[MV]
@@ -1098,8 +1022,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# phonetic_text = ʔá̰-nàá yàká nɛ̀ bóɲáà tɛ̀ ʔɔ́ɔ́ nù //
-# text_fr = voilà qu'elle a abandonné son frère couché au sol //
+# text_fr = voilà qu'elle a abandonné son frère couché au sol
 1	ʔá̰-nàá	ʔá̰-nɛ̀ʔà̰-H	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=172918|AlignEnd=173161|GE=[3SG]|Gloss=-3SG|MGloss=voilà_que-3SG-D|MSeg=ʔá̰-nɛ̀=à̰-H|nWord=17|RX=[PR]|wordform=ʔá̰-nɛ̀=à̰-H
 2	yàká	yak-H	VERB	V	_	0	root	_	AlignBegin=173161|AlignEnd=173404|GE=laisser|Gloss=laisser|MGloss=ACC-laisser-D|MSeg=BHa-yak-H|nWord=18|RX=[V]|wordform=BHa-yak-H
 3	nɛ̀	nɛ̀	PART	MV	_	2	advmod	_	AlignBegin=173404|AlignEnd=173647|GE=[INSTR]|Gloss=INSTR|MGloss=INSTR|MSeg=nɛ̀|nWord=19|RX=[MV]
@@ -1113,7 +1036,6 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 169030, 176331
-# phonetic_text = ʔà̰ péí nɛ̀nɛ́ sààyé nà //
 # text_fr = elle revient de ce fait au village.//
 1	ʔà̰	ʔà̰	PRON	PR	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=174619|AlignEnd=174862|GE=[3SG]|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=24|RX=[PR]
 2	péí	H-pei	VERB	V	_	0	root	_	AlignBegin=174862|AlignEnd=175105|GE=revenir|Gloss=revenir|MGloss=INAC-revenir|MSeg=H-pei|nWord=25|RX=[V]|wordform=H-pei
@@ -1126,8 +1048,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/GYA/WAV/GYA_PRD_NARR_T9-C7_NN.WAV
 # sent_timecode = 176331, 178155
-# phonetic_text = ʔèè ká ndàyá mɔ̀ sá̰ //
-# text_fr = et voilà la conclusion est  claire //
+# text_fr = et voilà la conclusion est  claire
 1	ʔèè	ʔèè	CCONJ	COORD	_	5	cc	_	AlignBegin=176331|AlignEnd=176696|GE=puis|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=[COORD]
 2	ká	ká	CCONJ	COORD	_	5	cc	_	AlignBegin=176696|AlignEnd=177061|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=2|RX=[COORD]
 3	ndàyá	ndàyà_H	NOUN	N	_	5	nsubj	_	AlignBegin=177061|AlignEnd=177426|GE=raison|Gloss=raison|MGloss=raison-D|MSeg=ndàyà-H|nWord=3|RX=[N]|wordform=ndàyà-H
