@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>403</sentences><tokens>2417</tokens><words>2417</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>403</sentences><tokens>2417</tokens><words>2417</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="628" /><!-- wàntò, nɛ̀, ká, ʔà̰, ʔèè, ʔá̰-nɛ̀, mɔ̀, ná, ʔá̰-nɛ̀ʔà̰-H, wà, ʔèá, H-ndak, bé, bêm, dùà -->
+  <forms unique="602" /><!-- nɛ̀, wàntò, ká, ʔà̰, ʔèè, ʔá̰-nɛ̀, mɔ̀, bé, dùà, ná, wà, ʔèá, nɛ́, ndák, bêm -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">81</tag><!-- bé, kpɔ́lɔ́k, BH-kpòŋ-kòròŋ, bàrà, mbé, péém, sɔ̀ngbɛ̀ɛ̀, ɗòŋ, ɗòŋ-H-à-ìí, B-wɔ́tɔ́-wɔ́tɔ́ -->
+    <tag name="ADP">209</tag><!-- nɛ̀, kɔ́ʔéí, kɔ́ʔà̰, kɔ́, sɛ̀n-H, há̰ʔám, táá, zù-H, hɛ̀n-H, kɔ̀ -->
+    <tag name="ADV">171</tag><!-- ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, bèè, hḭ̀ḭ́, sí-ɗòŋ, ɗòŋ, ʔèááá -->
+    <tag name="AUX">26</tag><!-- _ -->
+    <tag name="CCONJ">148</tag><!-- ká, ʔèè, ʔá̰-nɛ̀, ʔèè-H, ʔá̰, sá, nɛ̀, _, bɔ̰́, kà -->
+    <tag name="DET">41</tag><!-- ʔó, ʔá̰-nɛ̀, káʔó, mà, zɔ̀m, mɛ̀, mɛ̀-nɛ́, zɔ̀m-H, ʔá̰, ʔò -->
+    <tag name="INTJ">58</tag><!-- ndé, hó, wó, wá, yè, ʔè, ná-ndé, mbè, ná, ʔòóyɛ̀ -->
+    <tag name="NOUN">556</tag><!-- mɔ̀, bêm, dùà, dɔ̀nɔ̀, nàà, nù, dáà, síkɔ̀rí, pɛ̀ɲá, yérè -->
+    <tag name="NUM">6</tag><!-- yíítòó, kpɔ́k, mɔ̀ɔ̀rɔ́, náár -->
+    <tag name="PART">106</tag><!-- ná, nɛ̀, sɛ̀nɛ́, kàá, kàá-H, nɛ́nɛ́, péínɛ́, nɛ́, sínɛ́, sɔ̰́ -->
+    <tag name="PRON">307</tag><!-- ʔà̰, ʔá̰-nɛ̀ʔà̰-H, wà, mɛ́, mɛ́-B, nɛ̀ʔám-H, ʔám, ʔéí, káʔà̰, ʔá̰-nɛ̀wà-H -->
+    <tag name="PROPN">97</tag><!-- wàntò, dòké, yàá-dòè-mɔ̀, gàlò, kòlèɲáà, ndóngé, Bɛ̀lɛ̀m, bàngí, wàntò-Hv, zàngé -->
+    <tag name="SCONJ">25</tag><!-- nɛ̀, gá, há̰, hé, kà, kóó, mɔ̀-nɛ̀, wèn -->
+    <tag name="VERB">586</tag><!-- H-ndak, H-dɛ, H-nɛ, BHa-kpe-H, H-gbo, B-ngboi, BHa-ɲɔŋ-H, H-ʔa, H-ba, H-pḭ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="21">
+    <feat name="Aspect" value="Imp" upos="AUX">1</feat><!-- hám -->
+    <feat name="Aspect" value="Iter" upos="ADV,PART">5</feat><!-- kàá, kàà -->
+    <feat name="Case" value="Loc" upos="AUX">8</feat><!-- ʔá̰ -->
+    <feat name="Degree" value="Aug" upos="DET">3</feat><!-- zɔ̀m, zɔ̌m -->
+    <feat name="Degree" value="Cmp" upos="ADP">6</feat><!-- ʔín, ʔínwà, ʔínwààà -->
+    <feat name="Number" value="Plur" upos="DET,PRON">80</feat><!-- wà, ʔó, ʔɛ̀nɛ̀, wàá, kɔ́wà, ndɔ̀wà, ʔá̰-ndɔ̀wà, ʔá̰-ndɔ̀wá, ʔóyó, ʔɛ́nɛ́ -->
+    <feat name="Number" value="Sing" upos="PRON">202</feat><!-- ʔà̰, ʔá̰-nàá, mɛ́, mɛ̀, nǎm, ʔám, ʔá̰-nàà, ká̰à̰, mí, nàà -->
+    <feat name="Person" value="1" upos="PRON">55</feat><!-- nǎm, ʔám, mí, ʔàm, hám, kàm, ʔá̰-nàm, kɔ́m, kám, nàm -->
+    <feat name="Person" value="2" upos="PRON">45</feat><!-- mɛ́, mɛ̀, ʔɛ̀nɛ̀, ʔɛ́nɛ́, [mɛ̀, kɔ̀mɛ̀, kɔ́mɛ́, nɛ̀mɛ́, sɛ́kɔ́mɛ́, ʔá̰-nɛ̀mɛ́ -->
+    <feat name="Person" value="3" upos="PRON">151</feat><!-- ʔà̰, wà, ʔá̰-nàá, ʔá̰-nàà, ká̰à̰, nàà, wàá, ʔá̰-ndɔ̀wá, nàá, ʔá̰-ndɔ̀wà -->
+    <feat name="Polarity" value="Neg" upos="PART">22</feat><!-- ná, nà, náà -->
+    <feat name="Polite" value="Form" upos="DET,PRON">10</feat><!-- ʔó, ʔɛ̀nɛ̀, ʔɛ́nɛ́ -->
+    <feat name="Poss" value="Yes" upos="PRON">2</feat><!-- kɔ́ -->
+    <feat name="PronType" value="Ind" upos="PRON">9</feat><!-- ʔéí, ndèì, héí, ʔèì -->
+    <feat name="PronType" value="Prs" upos="PRON">265</feat><!-- ʔà̰, wà, ʔá̰-nàá, mɛ́, nǎm, mɛ̀, ʔám, ʔá̰-nàà, ká̰à̰, mí -->
+    <feat name="PronType" value="Rcp" upos="PRON">7</feat><!-- màá -->
+    <feat name="PronType" value="Rel" upos="SCONJ">11</feat><!-- nɛ̀ -->
+    <feat name="VerbForm" value="Fin" upos="PART">4</feat><!-- sɔ̰́ -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">7</feat><!-- dáŋáà, bááà, dɛ́ɛ́, gɔ́má, kóáà, mbɛ́rá -->
+    <feat name="Voice" value="Act" upos="AUX,PART">3</feat><!-- nɛ́ -->
+    <feat name="Voice" value="Mid" upos="VERB">1</feat><!-- yɔ̀á -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl">2</dep>
+    <dep name="acl:relcl">18</dep>
+    <dep name="advcl">63</dep>
+    <dep name="advcl:cleft">3</dep>
+    <dep name="advmod">252</dep>
+    <dep name="amod">46</dep>
+    <dep name="appos">10</dep>
+    <dep name="case">112</dep>
+    <dep name="cc">143</dep>
+    <dep name="ccomp">13</dep>
+    <dep name="compound">3</dep>
+    <dep name="compound:svc">51</dep>
+    <dep name="conj">47</dep>
+    <dep name="conj:redup">41</dep>
+    <dep name="cop">9</dep>
+    <dep name="csubj">6</dep>
+    <dep name="dep">60</dep>
+    <dep name="det">36</dep>
+    <dep name="discourse">40</dep>
+    <dep name="dislocated">32</dep>
+    <dep name="flat:name">1</dep>
+    <dep name="mark">24</dep>
+    <dep name="nmod">19</dep>
+    <dep name="nsubj">398</dep>
+    <dep name="obj">298</dep>
+    <dep name="obl">1</dep>
+    <dep name="obl:arg">182</dep>
+    <dep name="obl:mod">17</dep>
+    <dep name="parataxis">4</dep>
+    <dep name="parataxis:quoter">14</dep>
+    <dep name="reparandum">16</dep>
+    <dep name="root">403</dep>
+    <dep name="vocative">50</dep>
+    <dep name="xcomp">3</dep>
+  </deps>
+</treebank>
