@@ -14,11 +14,11 @@ Sentences are annotated with the following metadata:
  - `sent_timecode` (which enables playback of the sentence)
  - `text` (lexical tokenization)
  - `text_fr` (French interpretation)
-  
+
 
 # Structure
 
-This version of the treebank is a dependency parsing of three files of the original corpus. 
+This version of the treebank is a dependency parsing of three files of the original corpus.
 
 The original data are spoken data, which were originally segmented in interpausal units, and interlinearized, translated and glossed in Elan. For the syntactic treebank, a re-alignment was done using the illocutionary unit as a sentence.
 
@@ -31,7 +31,7 @@ The UD Northwest Gbaya treebank counts 2417 words for 403 sentences.
 
 # Acknowledgments
 
-This treebank was produced as part of the [Autogramm ANR project](https://autogramm.github.io/en/). With special thanks to Christian Chanard for the conversion from Elan, Sylvain Kahane for the mSUD annotation, Aleksandra Miletic and Bruno Guillaume for the conversion from mSUD to UD. 
+This treebank was produced as part of the [Autogramm ANR project](https://autogramm.github.io/en/). With special thanks to Christian Chanard for the conversion from Elan, Sylvain Kahane for the mSUD annotation, Aleksandra Miletic and Bruno Guillaume for the conversion from mSUD to UD.
 
 
 ## References
@@ -47,7 +47,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.14
+Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: spoken
