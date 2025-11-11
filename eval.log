@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Northwest_Gbaya-Autogramm:
-commit d5fbdee8a40793ed769da45e17f34d6981e0a355
-Merge: 8d1fdda 12d4008
+commit 07dc68ebaed45c8caeb7d7dc983072c84acf8598
+Merge: 7cd1b16 2f44340
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 2693 of 2693 words (nodes).
-Size: min(0, log((N/1000)**2)) = 1.98131162765892.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'gya_autogramm'
+Language code (from CoNLL-U file name) = 'gya'
+Found the following data files: gya_autogramm-ud-test.conllu
+Size: counted 2692 of 2692 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.98056882356496.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,26 +19,38 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 547 out of 2693 total words have one or more features.
+Features: 546 out of 2692 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        705
-Udapi: found 705 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 2693 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gya --max-err=10 UD_Northwest_Gbaya-Autogramm/gya_autogramm-ud-test.conllu
-*** PASSED ***
-Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.143412117803837) = 0.0367723378984197
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.72972972972973) = 0.0561330561330561
-(TOTAL score=0.264117058184316) * (availability=1) * (validity=1) = 0.264117058184316
-STARS = 1.5
-UD_Northwest_Gbaya-Autogramm	0.264117058184316	1.5
+[Line 32 Sent GYA_PRD_NARR_01_T16-C6_002-002]: [L3 Warning pron-det-without-prontype] The word 'ʔá̰-nɛ̀' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 46 Sent GYA_PRD_NARR_01_T16-C6_003-003]: [L3 Warning pron-det-without-prontype] The word 'ʔá̰' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 160 Sent GYA_PRD_NARR_01_T16-C6_011-011]: [L3 Warning pron-det-without-prontype] The word 'ʔá̰-nɛ̀' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 336 Sent GYA_PRD_NARR_01_T16-C6_026-026]: [L3 Warning pron-det-without-prontype] The word 'ʔá̰-nɛ̀' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 458 Sent GYA_PRD_NARR_01_T16-C6_036-036]: [L3 Warning pron-det-without-prontype] The word 'ʔò' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 492 Sent GYA_PRD_NARR_01_T16-C6_038-038]: [L3 Warning pron-det-without-prontype] The word 'ʔó' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 528 Sent GYA_PRD_NARR_01_T16-C6_040-040]: [L3 Warning pron-det-without-prontype] The word '=à' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 538 Sent GYA_PRD_NARR_01_T16-C6_041-041]: [L3 Warning pron-det-without-prontype] The word 'ʔá̰-nɛ̀' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 624 Sent GYA_PRD_NARR_01_T16-C6_047-047]: [L3 Warning pron-det-without-prontype] The word 'zɔ̀m' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 688 Sent GYA_PRD_NARR_01_T16-C6_051-051]: [L3 Warning pron-det-without-prontype] The word '=à' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 4064 Sent GYA_PRD_NARR_T24-C59_122-123]: [L3 Syntax too-many-objects] Multiple direct objects [8, 14] ('kú', 'ʔòé') under the predicate 'ɲɔ́ŋ'.
+[Line 4164 Sent GYA_PRD_NARR_T24-C59_128-132]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('tè', 'nú') under the predicate 'ɓásí'.
+[Line 4593 Sent GYA_PRD_NARR_T24-C59_157-157]: [L3 Syntax too-many-objects] Multiple direct objects [5, 7] ('gèɗà', 'kútùà') under the predicate 'ʔá'.
+Syntax errors: 3
+Warnings: 113
+*** FAILED *** with 3 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.143358351850646) = 0.0530956858706098
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
+(weight=0.111111111111111) * (score{udeprels}=0.72972972972973) = 0.0810810810810811
+(TOTAL score=0.377038059616905) * (availability=1) * (validity=0.01) = 0.00377038059616905
+STARS = 0
+UD_Northwest_Gbaya-Autogramm	0.00377038059616905	0
