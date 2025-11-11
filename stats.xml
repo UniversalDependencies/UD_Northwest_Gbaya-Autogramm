@@ -5,30 +5,30 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>403</sentences><tokens>2693</tokens><words>2693</words><fused>0</fused></total>
+    <total><sentences>403</sentences><tokens>2692</tokens><words>2692</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>403</sentences><tokens>2693</tokens><words>2693</words><fused>0</fused></test>
+    <test><sentences>403</sentences><tokens>2692</tokens><words>2692</words><fused>0</fused></test>
   </size>
-  <lemmas unique="380" /><!-- ʔà̰, nɛ̀, ʔá̰-nɛ̀, ʔám, wàntò, ká, kɔ́, wà, ʔèè, ba, mɛ́, ʔéí, mɔ̀, ná, ndak -->
-  <forms unique="559" /><!-- nɛ̀, =à̰, ʔá̰-nɛ̀, ká, kɔ́, wàntò, =ám, ʔà̰, ʔèè, mɔ̀, bé, wà, =wà, dùà, ná -->
+  <lemmas unique="378" /><!-- ʔà̰, nɛ̀, ʔá̰-nɛ̀, ʔám, wàntò, ká, kɔ́, wà, ʔèè, ba, mɛ́, ʔéí, mɔ̀, ná, dùà -->
+  <forms unique="560" /><!-- nɛ̀, =à̰, ʔá̰-nɛ̀, ká, kɔ́, wàntò, =ám, ʔà̰, ʔèè, mɔ̀, bé, wà, =wà, dùà, ná -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
     <tag name="ADJ">81</tag><!-- bé, kpɔ́lɔ́k, bàrà, kpòŋ-kòròŋ, ɗòŋ, mbé, zù, húʋúʋú, péém, sɔ̀ngbɛ̀ɛ̀ -->
     <tag name="ADP">209</tag><!-- kɔ́, nɛ̀, sɛ̀n, há̰, táá, zù, hɛ̀n, tɛ̀, kɔ̀, ʔîn -->
-    <tag name="ADV">169</tag><!-- ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, bèè, hḭ̀ḭ́, sí-ɗòŋ, ɗòŋ, ʔèááá -->
+    <tag name="ADV">170</tag><!-- ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, bèè, hḭ̀ḭ́, sí-ɗòŋ, ɗòŋ, ʔèááá -->
     <tag name="AUX">25</tag><!-- _ -->
     <tag name="CCONJ">240</tag><!-- ʔá̰-nɛ̀, ká, ʔèè, nɛ̀, ʔá̰, sá, ɓɛ̀ɛ̀, bɔ̰́, kà, sɛ́ká -->
-    <tag name="DET">50</tag><!-- ʔó, ʔá̰-nɛ̀, zɔ̀m, mà, ʔò, mɛ̀, mɛ̀-nɛ́, ʔà, ʔá̰ -->
+    <tag name="DET">49</tag><!-- ʔó, ʔá̰-nɛ̀, zɔ̀m, mà, ʔò, mɛ̀, mɛ̀-nɛ́, ʔá̰ -->
     <tag name="INTJ">16</tag><!-- hó, wàá, káì, wùléé, ʔà, ʔàà, ʔòóyèé, ʔówà -->
-    <tag name="NOUN">555</tag><!-- mɔ̀, dùà, bêm, dɔ̀nɔ̀, bókáɲá, nù, nú, nàà, dáà, síkɔ̀rí -->
+    <tag name="NOUN">556</tag><!-- mɔ̀, dùà, bêm, dɔ̀nɔ̀, bókáɲá, nù, nú, nàà, dáà, síkɔ̀rí -->
     <tag name="NUM">6</tag><!-- yíítòó, kpɔ́k, mɔ̀ɔ̀rɔ́, náár -->
-    <tag name="PART">151</tag><!-- ná, nɛ̀, kàá, ndé, sínɛ́, nɛ́nɛ́, sɛ̀nɛ́, wó, péínɛ́, wá -->
+    <tag name="PART">151</tag><!-- ná, nɛ̀, kàá, ndé, sínɛ́, nɛ́nɛ́, sɛ̀nɛ́, wó, nɛ̀nɛ́, péínɛ́ -->
     <tag name="PRON">458</tag><!-- ʔà̰, ʔám, wà, mɛ́, ʔéí, ʔóyó, ʔɛ́nɛ́, ʔà, màá, mí -->
     <tag name="PROPN">99</tag><!-- wàntò, dòké, yàá-dòè-mɔ̀, gàlò, kòlèɲáà, ndóngé, Bɛ̀lɛ̀m, bàngí, zàngé, zàòrò-mámbɛ̀rɛ̀ -->
     <tag name="SCONJ">49</tag><!-- nɛ̀, há̰, kà, mɔ̀-nɛ̀, gá, hé, kóó, wèn -->
-    <tag name="VERB">585</tag><!-- ba, ndak, dɛ, ɲɔŋ, nɛ, gbo, kpe, ʔa, kpa, yak -->
+    <tag name="VERB">583</tag><!-- ba, ndak, dɛ, ɲɔŋ, nɛ, gbo, kpe, ʔa, kpa, yak -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="22">
@@ -38,10 +38,10 @@
     <feat name="Degree" value="Aug" upos="DET">3</feat><!-- zɔ̀m, zɔ̌m -->
     <feat name="Degree" value="Cmp" upos="ADP">6</feat><!-- ʔín, ʔîn -->
     <feat name="Number" value="Plur" upos="DET,PRON">109</feat><!-- =wà, wà, ʔó, =yó, ʔɛ̀nɛ̀, =ɛ́ɛ́, wàá, =ó, ʔóyó, ʔɛ́nɛ́ -->
-    <feat name="Number" value="Sing" upos="DET,PRON">318</feat><!-- =à̰, =ám, ʔà̰, =à, =m, =éí, mɛ́, mɛ̀, =mɛ́, ʔám -->
+    <feat name="Number" value="Sing" upos="PRON">317</feat><!-- =à̰, =ám, ʔà̰, =à, =m, =éí, mɛ́, mɛ̀, =mɛ́, ʔám -->
     <feat name="Person" value="1" upos="PRON">99</feat><!-- =ám, =m, ʔám, =ɛ́ɛ́, mí, ʔàm, =ám-ɛ̰̀ -->
     <feat name="Person" value="2" upos="PRON">55</feat><!-- mɛ́, mɛ̀, =mɛ́, ʔɛ̀nɛ̀, ʔɛ́nɛ́, =nɛ́, =nɛ́-ìí, [mɛ̀ -->
-    <feat name="Person" value="3" upos="DET,PRON">222</feat><!-- =à̰, ʔà̰, =wà, wà, =à, wàá, ʔà̰á̰, =wà-VH, =wà-VV, =à̰-ìí -->
+    <feat name="Person" value="3" upos="PRON">221</feat><!-- =à̰, ʔà̰, =wà, wà, =à, wàá, ʔà̰á̰, =wà-VH, =wà-VV, =à̰-ìí -->
     <feat name="Polarity" value="Neg" upos="PART">22</feat><!-- ná, nà, náà -->
     <feat name="Polite" value="Form" upos="DET,PRON">11</feat><!-- ʔó, ʔɛ̀nɛ̀, ʔɛ́nɛ́, =nɛ́ -->
     <feat name="Poss" value="Yes" upos="PRON">2</feat><!-- kɔ́ -->
@@ -61,31 +61,31 @@
     <dep name="acl:relcl">18</dep>
     <dep name="advcl">64</dep>
     <dep name="advcl:cleft">3</dep>
-    <dep name="advmod">252</dep>
+    <dep name="advmod">253</dep>
     <dep name="amod">46</dep>
     <dep name="appos">10</dep>
     <dep name="case">194</dep>
     <dep name="cc">235</dep>
-    <dep name="ccomp">12</dep>
+    <dep name="ccomp">11</dep>
     <dep name="compound">3</dep>
     <dep name="compound:svc">51</dep>
-    <dep name="conj">46</dep>
+    <dep name="conj">45</dep>
     <dep name="conj:redup">41</dep>
     <dep name="cop">9</dep>
     <dep name="csubj">6</dep>
     <dep name="dep">11</dep>
-    <dep name="det">45</dep>
+    <dep name="det">44</dep>
     <dep name="discourse">12</dep>
     <dep name="discourse:participant">17</dep>
     <dep name="discourse:sp">40</dep>
     <dep name="dislocated">34</dep>
     <dep name="flat:name">1</dep>
     <dep name="mark">47</dep>
-    <dep name="nmod">59</dep>
+    <dep name="nmod">62</dep>
     <dep name="nsubj">398</dep>
     <dep name="obj">368</dep>
     <dep name="obl">1</dep>
-    <dep name="obl:arg">181</dep>
+    <dep name="obl:arg">179</dep>
     <dep name="obl:mod">22</dep>
     <dep name="parataxis">4</dep>
     <dep name="parataxis:parenth">1</dep>
