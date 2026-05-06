@@ -61,7 +61,7 @@
     <dep name="acl:relcl">18</dep>
     <dep name="advcl">64</dep>
     <dep name="advcl:cleft">3</dep>
-    <dep name="advmod">253</dep>
+    <dep name="advmod">254</dep>
     <dep name="amod">46</dep>
     <dep name="appos">10</dep>
     <dep name="case">194</dep>
@@ -83,13 +83,13 @@
     <dep name="mark">47</dep>
     <dep name="nmod">62</dep>
     <dep name="nsubj">398</dep>
-    <dep name="obj">368</dep>
+    <dep name="obj">365</dep>
     <dep name="obl">1</dep>
-    <dep name="obl:arg">179</dep>
+    <dep name="obl:arg">180</dep>
     <dep name="obl:mod">22</dep>
     <dep name="parataxis">4</dep>
     <dep name="parataxis:parenth">1</dep>
-    <dep name="reparandum">17</dep>
+    <dep name="reparandum">18</dep>
     <dep name="root">403</dep>
     <dep name="vocative">38</dep>
     <dep name="xcomp">3</dep>
